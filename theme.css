@@ -325,12 +325,6 @@ a, a:visited {
 
 /* Chat */
 #ircchat {
-	/*remove IRC chat window
-	top: -2000px;
-  	position: absolute;
-	*/
-	
-	/*styling*/
 	width: calc(100% - 10px) !important;
 	border-radius: 5px;
 	background-color: #eeeeee !important;
@@ -339,7 +333,6 @@ a, a:visited {
 	letter-spacing: 0.5px;
 	padding: 0 !important;
 	margin-bottom: 10px;
-
 
 #ircchat table {
 	border-collapse: separate !important;
