@@ -325,9 +325,10 @@ a, a:visited {
 
 /* Chat */
 #ircchat {
-	/*remove IRC chat window*/
+	/*remove IRC chat window
 	top: -2000px;
   	position: absolute;
+	*/
 	
 	/*styling*/
 	width: calc(100% - 10px) !important;
